@@ -1,6 +1,6 @@
 x1,y1=input().split()
-m1=len(x)
-n1=len(y)
+m1=len(x1)
+n1=len(y1)
 if ((n1>m1)or(n1==m1)):
     i=0
     while i<m1 and x1[i]==y1[i]:
